@@ -1,0 +1,4 @@
+bot:
+  name: ${name}
+  token: ${token}
+
